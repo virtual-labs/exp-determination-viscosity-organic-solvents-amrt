@@ -1,24 +1,23 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Chemical Sciences
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
-
+<b> Lab | <b> Physical Chemistry Virtual Lab
+<b> Experiment|     <b> Determination of Viscosity of Organic Solvents
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+o build up the concept of Poiseuilles law and correlate the effect of flow time and viscosity.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Amrita Virtual Labs
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
+<b> Institute | <b>  Amrita Vishwa Vidyapeetham
+<b> Email id|     <b>  virtual_labs@am.amrita.edu
 <b> Department |  
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Mr. Saneesh P F | . | . | . | .
 2 | . | . | . | . | .
