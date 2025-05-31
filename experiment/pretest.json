@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Liquids with high molecular masses have ....... viscosity.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Lesser",
+        "b": "Equal",
+        "c": "Greater",
+        "d": "Zero"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Liquids with high molecular masses usually have stronger intermolecular forces, which increases resistance to flow.",
+        "b": "Viscosity differs based on molecular structure; it's not necessarily equal.",
+        "c": "Correct. Higher molecular mass often correlates with greater viscosity.",
+        "d": "Viscosity is rarely zero for liquids."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "While determining the viscosity of a liquid with the help of a viscometer, the liquid was sucked with great difficulty. The liquid may be.......",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Glycerin",
+        "b": "Ethanol",
+        "c": "Water",
+        "d": "Acetone"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct. Glycerin is highly viscous and resists flow.",
+        "b": "Ethanol is less viscous and flows more easily.",
+        "c": "Water has moderate viscosity.",
+        "d": "Acetone is low in viscosity."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
