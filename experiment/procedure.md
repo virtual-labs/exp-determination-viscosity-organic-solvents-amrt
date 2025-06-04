@@ -34,7 +34,8 @@
 </ol>
 
 <h3>Liquid Details</h3>
-<table border="1">
+<div align="center">
+<table>
   <tr>
     <th>Liquid</th>
     <th>Mass (g)</th>
@@ -56,9 +57,10 @@
     <td>1.200</td>
   </tr>
 </table>
-
+</div>
 <h3>Observations and Calculations:</h3>
-<table border="1">
+<div align="center">
+<table>
   <tr>
     <th>Solvents</th>
     <th>Flow Time (sec)</th>
@@ -71,9 +73,11 @@
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Toluene</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -83,8 +87,10 @@
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
 </table>
+</div>
 
 <p><strong>Room temperature:</strong> 30&deg;C</p>
 <p><strong>Mass of water:</strong> 25.06 g</p>
